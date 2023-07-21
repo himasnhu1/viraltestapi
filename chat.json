@@ -1,0 +1,44 @@
+{
+    "status": 1,
+    "applicationdata": [
+      {"application_status":1,
+       "applicationdate":1688974107,
+       "reimbursementamount":467
+     }
+    ],
+    "orderdata": [
+      {
+      "order_status":1,
+      "file":"https://viralpitch.co//deals/user/campaignfile/order361687181283.jpg",
+      "orderdeadlinetime":4,
+      "orderdate":1687157504,
+      "ordermsg":"Click to submit order screenshot screenshot only fengenko ",
+      "guideline":"&lt;ul&gt;\r\n&lt;li&gt;Review must be 60-100 words long ✍&lt;/li&gt;\r\n&lt;li&gt;One liners or reviews WITHOUT Verified Purchase Tag will not be approved ❌&lt;/li&gt;\r\n&lt;li&gt;Write an ORIGINAL review sharing why you liked the product &amp;amp; What worked for you ✅&lt;/li&gt;\r\n&lt;li&gt;You may HIGHLIGHT the product key features or your product experience ✅&lt;/li&gt;\r\n&lt;li&gt;DO NOT copy paste the product description and replicate content from other Live reviews ❌&lt;/li&gt;\r\n&lt;li&gt;Please REFRAIN from using the Brand name, Competition brand name ❌&lt;/li&gt;\r\n&lt;li&gt;DO NOT use phrases like Highly recommended, Must buy, Thanks to Amazon etc ❌&lt;/li&gt;\r\n&lt;li&gt;DO NOT write about Amazon Packaging, delivery or pricing points ❌&lt;/li&gt;\r\n&lt;li&gt;Keep a screenshot of &quot;Review Submitted Successfully&quot; once you submit the review 📷&amp;nbsp;&lt;/li&gt;\r\n&lt;/ul&gt;",
+      "guide_line_Image":"https://viralpitch.co/public/image/nykaa-sample.png"
+     }
+    ],
+    "reviewsubmissiondata": [
+      {
+    "reviewsubmission_status":1,
+      "file":"https://viralpitch.co//deals/user/campaignfile/review_proof_241687167498.jpg",
+      "reviewsubmissiondate":1687157504,
+      "reviewsubmissiondeadlinetime":2,
+      "reviewsubmissionmsg":"You can upload review submission screenshot only after your order screenshot is approved",
+      "guideline":"&lt;ul&gt;\r\n&lt;li&gt;Review must be 60-100 words long ✍&lt;/li&gt;\r\n&lt;li&gt;One liners or reviews WITHOUT Verified Purchase Tag will not be approved ❌&lt;/li&gt;\r\n&lt;li&gt;Write an ORIGINAL review sharing why you liked the product &amp;amp; What worked for you ✅&lt;/li&gt;\r\n&lt;li&gt;You may HIGHLIGHT the product key features or your product experience ✅&lt;/li&gt;\r\n&lt;li&gt;DO NOT copy paste the product description and replicate content from other Live reviews ❌&lt;/li&gt;\r\n&lt;li&gt;Please REFRAIN from using the Brand name, Competition brand name ❌&lt;/li&gt;\r\n&lt;li&gt;DO NOT use phrases like Highly recommended, Must buy, Thanks to Amazon etc ❌&lt;/li&gt;\r\n&lt;li&gt;DO NOT write about Amazon Packaging, delivery or pricing points ❌&lt;/li&gt;\r\n&lt;li&gt;Keep a screenshot of &quot;Review Submitted Successfully&quot; once you submit the review 📷&amp;nbsp;&lt;/li&gt;\r\n&lt;/ul&gt;",
+      "guide_line_video":"https://viralpitch.co/public/image/amazon-review.mp4"
+     }
+    ],
+    "reviewdata": [
+      {
+      "review_status":1,
+      "file":"https://viralpitch.co//deals/user/campaignfile/review168854104633.png",
+      "reviewdate":1688974107,
+      "reviewlink":"https://www.amazon.in/dp/B0B8NHX62W/ref=syn_sd_onsite_desktop_0?ie=UTF8&pf_rd_p=b7bab328-2147-46ed-8a61-81e78a5120b2&pf_rd_r=TJDNTN0MB4APFRYA9C3Q&pd_rd_wg=z1W6T&pd_rd_w=C332n&pd_rd_r=bc49274b-64df-4f32-8f23-a4e63290bc4c&th=1",
+      "reviewsubmissiondeadlinetime":2,
+      "reviewmsg":"Your review is approved and your reimbursement amount of INR 422 has been credited to wallet.",
+      "guideline":"&lt;ul&gt;\r\n&lt;li&gt;Review must be 60-100 words long ✍&lt;/li&gt;\r\n&lt;li&gt;One liners or reviews WITHOUT Verified Purchase Tag will not be approved ❌&lt;/li&gt;\r\n&lt;li&gt;Write an ORIGINAL review sharing why you liked the product &amp;amp; What worked for you ✅&lt;/li&gt;\r\n&lt;li&gt;You may HIGHLIGHT the product key features or your product experience ✅&lt;/li&gt;\r\n&lt;li&gt;DO NOT copy paste the product description and replicate content from other Live reviews ❌&lt;/li&gt;\r\n&lt;li&gt;Please REFRAIN from using the Brand name, Competition brand name ❌&lt;/li&gt;\r\n&lt;li&gt;DO NOT use phrases like Highly recommended, Must buy, Thanks to Amazon etc ❌&lt;/li&gt;\r\n&lt;li&gt;DO NOT write about Amazon Packaging, delivery or pricing points ❌&lt;/li&gt;\r\n&lt;li&gt;Keep a screenshot of &quot;Review Submitted Successfully&quot; once you submit the review 📷&amp;nbsp;&lt;/li&gt;\r\n&lt;/ul&gt;",
+      "guide_line_video":"https://viralpitch.co/public/image/amazon-review.mp4"
+     }
+    ]
+
+  }
