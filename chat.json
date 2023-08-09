@@ -8,7 +8,7 @@
     ],
     "orderdata": [
       {
-      "order_status":4,
+      "order_status":1,
       "file":"https://viralpitch.co//deals/user/campaignfile/order361687181283.jpg",
       "orderdeadlinetime":4,
       "orderdate":1687157504,
@@ -19,7 +19,7 @@
     ],
     "reviewsubmissiondata": [
       {
-    "reviewsubmission_status":4,
+    "reviewsubmission_status":1,
       "file":"https://viralpitch.co//deals/user/campaignfile/review_proof_241687167498.jpg",
       "reviewsubmissiondate":1687157504,
       "reviewsubmissiondeadlinetime":2,
@@ -30,7 +30,7 @@
     ],
     "reviewdata": [
       {
-      "review_status":4,
+      "review_status":1,
       "file":"https://viralpitch.co//deals/user/campaignfile/review168854104633.png",
       "reviewdate":1688974107,
       "reviewlink":"https://www.amazon.in/dp/B0B8NHX62W/ref=syn_sd_onsite_desktop_0?ie=UTF8&pf_rd_p=b7bab328-2147-46ed-8a61-81e78a5120b2&pf_rd_r=TJDNTN0MB4APFRYA9C3Q&pd_rd_wg=z1W6T&pd_rd_w=C332n&pd_rd_r=bc49274b-64df-4f32-8f23-a4e63290bc4c&th=1",
