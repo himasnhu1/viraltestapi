@@ -49,7 +49,7 @@
         ],
         "scriptData": [
             {
-                "script_status": 1,
+                "script_status": 4,
                 "script_url": "https://viralpitch.co//deals/user/campaignfile/order361687181283.jpg",
                 "lastUpdate": 1687157504,
                 "remarks": null
@@ -165,7 +165,7 @@
         ],
         "invoiceData": [
             {
-                "invoice_status": 3,
+                "invoice_status": 4,
                 "invoice_url": "https://viralpitch.co//deals/user/campaignfile/order361687181283.jpg",
                 "lastUpdate": 1687157504,
                 "remarks": null
