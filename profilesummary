@@ -1,0 +1,188 @@
+{
+    "status_code": 200,
+    "status": 1,
+    "msg": "Instagram Overview",
+    "list": {
+        "sucess": true,
+        "profile": {
+            "top_used_hashtags": [
+                "carasun",
+                "caralawansuntimidasi",
+                "Skin",
+                "GarnierVitaminCPalingCerah",
+                "DaruratCerah"
+            ],
+            "location_list": [],
+            "youtube": [],
+            "facebook": [],
+            "twitter": [],
+            "interests": [
+                {
+                    "category_id": "6",
+                    "score": 100,
+                    "name": "Beauty6",
+                    "parent_id": 0,
+                    "sub_category_interests": []
+                }
+            ],
+            "brands": {
+                "selected_platform": "all",
+                "brand_mentions": [],
+                "brand_categories": []
+            },
+            "instagram": {
+                "unique_id": "Arashimalya",
+                "username": "Arashimalya",
+                "top_used_hashtags": [
+                    "carasun",
+                    "caralawansuntimidasi",
+                    "Skin",
+                    "GarnierVitaminCPalingCerah",
+                    "DaruratCerah"
+                ],
+                "follower_analysis": [],
+                "profile__name": "Instagram",
+                "is_verified": true,
+                "bio": "✨you’re beautiful just the way you are✨\n📩 email for business\nCuri video denda 100jt❗️\nPreloved @rosiepreloved.id \nRacun cek HL / Link👇🏼",
+                "media_count": "7.4k",
+                "followers": 140773,
+                "average_interaction": 3876.5,
+                "average_views": 121797039,
+                "average_comments": 59.5,
+                "average_likes": 3817,
+                "engagement_rate": 2.753724080612049,
+                "average_reel_views": 121797039,
+                "average_reel_likes": 11122.363636363636,
+                "average_reel_comments": 123.72727272727273,
+                "average_video_likes": 0,
+                "average_video_comments": 0
+            },
+            "name": "arashimalya",
+            "handle": "Arashimalya",
+            "gender": "F",
+            "type": "brand",
+            "profile_image": "https://storage.googleapis.com/viralimage/631d3c9d796e85d8b14b2e46d7bab079.jpg",
+            "bio": "✨you’re beautiful just the way you are✨\n📩 email for business\nCuri video denda 100jt❗️\nPreloved @rosiepreloved.id \nRacun cek HL / Link👇🏼",
+            "categories": [
+                0
+            ],
+            "recent_costs": false,
+            "is_details_profile_access": false,
+            "is_contact": true,
+            "is_verified": true,
+            "other_platform": [],
+            "location": "",
+            "media_count": "7.4k",
+            "followers": 140773,
+            "average_interaction": 3876.5,
+            "age": 0,
+            "average_views": 121797039,
+            "average_comments": 59.5,
+            "average_likes": 3817,
+            "recent_post": [
+                {
+                    "id": "18196369444259533",
+                    "url": "https://www.instagram.com/p/CvKEuHsP_pt/",
+                    "like": 114,
+                    "comment": 114,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/d44867dfbacfe704efe91717548df41c.jpg"
+                },
+                {
+                    "id": "18373023316051958",
+                    "url": "https://www.instagram.com/p/CvCYZ_-PCcD/",
+                    "like": 70,
+                    "comment": 70,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/9fbe81f564b73a2c06f2625ec1023313.jpg"
+                },
+                {
+                    "id": "17973315323310987",
+                    "url": "https://www.instagram.com/p/CouB-levpJU/",
+                    "like": 30,
+                    "comment": 30,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/167fab6c142b3d72a38b203a2a0162e8.jpg"
+                },
+                {
+                    "id": "17891086514779388",
+                    "url": "https://www.instagram.com/p/CozLcSUPtMC/",
+                    "like": 285,
+                    "comment": 285,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/4ce87813b2075956582ad4a5b1ef14b1.jpg"
+                },
+                {
+                    "id": "18272685655184489",
+                    "url": "https://www.instagram.com/p/Co4VI6Sv_SF/",
+                    "like": 387,
+                    "comment": 387,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/c2f7fc9d6d36f092510adf8df70e9323.jpg"
+                }
+            ],
+            "top_post": [
+                {
+                    "id": "18196369444259533",
+                    "url": "https://www.instagram.com/p/CvKEuHsP_pt/",
+                    "like": 114,
+                    "comment": 114,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/d44867dfbacfe704efe91717548df41c.jpg"
+                },
+                {
+                    "id": "18373023316051958",
+                    "url": "https://www.instagram.com/p/CvCYZ_-PCcD/",
+                    "like": 70,
+                    "comment": 70,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/9fbe81f564b73a2c06f2625ec1023313.jpg"
+                },
+                {
+                    "id": "17973315323310987",
+                    "url": "https://www.instagram.com/p/CouB-levpJU/",
+                    "like": 30,
+                    "comment": 30,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/167fab6c142b3d72a38b203a2a0162e8.jpg"
+                },
+                {
+                    "id": "17891086514779388",
+                    "url": "https://www.instagram.com/p/CozLcSUPtMC/",
+                    "like": 285,
+                    "comment": 285,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/4ce87813b2075956582ad4a5b1ef14b1.jpg"
+                },
+                {
+                    "id": "18272685655184489",
+                    "url": "https://www.instagram.com/p/Co4VI6Sv_SF/",
+                    "like": 387,
+                    "comment": 387,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/c2f7fc9d6d36f092510adf8df70e9323.jpg"
+                }
+            ],
+            "brand_post": [
+                {
+                    "id": "123223",
+                    "url": "https://www.instagram.com/p/Cs3EtpNNrtf/",
+                    "like": 12,
+                    "comment": "12",
+                    "view": 12,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/9008f9fbb9d1d87e6a37f2dd8843f047.jpg"
+                },
+                {
+                    "id": "123223",
+                    "url": "https://www.instagram.com/p/Cs3EtpNNrtdf/",
+                    "like": 12,
+                    "comment": "12",
+                    "view": 12,
+                    "eng": 0.1,
+                    "post_image": "https://storage.googleapis.com/viralimage/471d032bce1c436f72066d155c51fdce.webp"
+                }
+            ]
+        }
+    }
+}
