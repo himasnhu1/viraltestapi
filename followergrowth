@@ -1,0 +1,209 @@
+{
+    "status": 1,
+    "data": {
+        "lastsevenday": [
+            {
+                "id": 0,
+                "date": "22 Jul-2023",
+                "follower": 2000,
+                "following": 1000,
+                "Post": 3000
+            },
+            {
+                "id": 1,
+                "date": "23 Jul-2023",
+                "follower": 2100,
+                "following": 1100,
+                "Post": 4000
+            },
+            {
+                "id": 2,
+                "date": "24 Jul-2023",
+                "follower": 3100,
+                "following": 2200,
+                "Post": 5500
+            },
+            {
+                "id": 3,
+                "date": "25 Jul-2023",
+                "follower": 3200,
+                "following": 2500,
+                "Post": 6000
+            },
+            {
+                "id": 4,
+                "date": "26 Jul-2023",
+                "follower": 3700,
+                "following": 3100,
+                "Post": 6500
+            },
+            {
+                "id": 5,
+                "date": "27 Jul-2023",
+                "follower": 4000,
+                "following": 3700,
+                "Post": 7000
+            },
+            {
+                "id": 6,
+                "date": "28 Jul-2023",
+                "follower": 5500,
+                "following": 3760,
+                "Post": 7200
+            }
+        ],
+        "lastfoutheenday": [
+            {
+                "id": 0,
+                "date": "14 Jul-2023",
+                "follower": 2000,
+                "following": 1000,
+                "Post": 2000
+            },
+            {
+                "id": 1,
+                "date": "16 Jul-2023",
+                "follower": 2100,
+                "following": 1100,
+                "Post": 2800
+            },
+            {
+                "id": 2,
+                "date": "18 Jul-2023",
+                "follower": 3100,
+                "following": 2200,
+                "Post": 3000
+            },
+            {
+                "id": 3,
+                "date": "21 Jul-2023",
+                "follower": 3200,
+                "following": 2500,
+                "Post": 3500
+            },
+            {
+                "id": 4,
+                "date": "23 Jul-2023",
+                "follower": 3700,
+                "following": 3100,
+                "Post": 4200
+            },
+            {
+                "id": 5,
+                "date": "25 Jul-2023",
+                "follower": 4000,
+                "following": 3700,
+                "Post": 5500
+            },
+            {
+                "id": 6,
+                "date": "31 Jul-2023",
+                "follower": 5500,
+                "following": 6060,
+                "Post": 6660
+            }
+        ],
+        "lastthirtyenday": [
+            {
+                "id": 0,
+                "date": "1 Jul-2023",
+                "follower": 2000,
+                "following": 1000,
+                "Post": 2800
+            },
+            {
+                "id": 1,
+                "date": "5 Jul-2023",
+                "follower": 2100,
+                "following": 1100,
+                "Post": 3800
+            },
+            {
+                "id": 2,
+                "date": "10 Jul-2023",
+                "follower": 3100,
+                "following": 2200,
+                "Post": 4000
+            },
+            {
+                "id": 3,
+                "date": "15 Jul-2023",
+                "follower": 3200,
+                "following": 2500,
+                "Post": 5000
+            },
+            {
+                "id": 4,
+                "date": "20 Jul-2023",
+                "follower": 3700,
+                "following": 3100,
+                "Post": 5500
+            },
+            {
+                "id": 5,
+                "date": "25 Jul-2023",
+                "follower": 4000,
+                "following": 3700,
+                "Post": 6700
+            },
+            {
+                "id": 6,
+                "date": "31 Jul-2023",
+                "follower": 5500,
+                "following": 6060,
+                "Post": 7060
+            }
+        ],
+        "lastnintyday": [
+            {
+                "id": 0,
+                "date": "1 May-2023",
+                "follower": 2500,
+                "following": 2000,
+                "Post": 6000
+            },
+            {
+                "id": 1,
+                "date": "15 May-2023",
+                "follower": 3100,
+                "following": 2100,
+                "Post": 6500
+            },
+            {
+                "id": 2,
+                "date": "30 May-2023",
+                "follower": 4100,
+                "following": 3200,
+                "Post": 6900
+            },
+            {
+                "id": 3,
+                "date": "1 Jun-2023",
+                "follower": 4200,
+                "following": 3500,
+                "Post": 7000
+            },
+            {
+                "id": 4,
+                "date": "30 Jun-2023",
+                "follower": 4700,
+                "following": 4100,
+                "Post": 7200
+            },
+            {
+                "id": 5,
+                "date": "1 Jul-2023",
+                "follower": 4300,
+                "following": 7000,
+                "Post": 7500
+            },
+            {
+                "id": 6,
+                "date": "31 Jul-2023",
+                "follower": 5500,
+                "following": 7060,
+                "Post": 7660
+            }
+        ]
+    }
+}
