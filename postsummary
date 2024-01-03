@@ -1,0 +1,331 @@
+{
+    "status_code": 200,
+    "status": 1,
+    "msg": "Instagram Post Summary",
+    "list": {
+        "ok": true,
+        "data": {
+            "bestdaypost": [
+                {
+                    "name": "Sunday",
+                    "Engage": 3070,
+                    "Post": 1
+                },
+                {
+                    "name": "Monday",
+                    "Engage": 12287,
+                    "Post": 1
+                },
+                {
+                    "name": "Wednesday",
+                    "Engage": 806,
+                    "Post": 1
+                },
+                {
+                    "name": "Thursday",
+                    "Engage": 2789,
+                    "Post": 1
+                },
+                {
+                    "name": "Saturday",
+                    "Engage": 9282,
+                    "Post": 1
+                }
+            ],
+            "besthourspost": [
+                {
+                    "name": "6 AM",
+                    "Engage": 439,
+                    "Post": 1
+                },
+                {
+                    "name": "11 AM",
+                    "Engage": 516,
+                    "Post": 2
+                },
+                {
+                    "name": "2 PM",
+                    "Engage": 3104,
+                    "Post": 3
+                },
+                {
+                    "name": "3 PM",
+                    "Engage": 1219,
+                    "Post": 2
+                },
+                {
+                    "name": "7 PM",
+                    "Engage": 128,
+                    "Post": 1
+                }
+            ],
+            "bestHour": "6 AM",
+            "bestday": "Monday",
+            "top12Posts": [
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "Co4VI6Sv_SF",
+                    "timestamp": 1676887405,
+                    "caption": "Ada yang mau kue ? Soalnya kemarin kepala kekiri bunga nya bagus \n\n📖yang dicatet sampe tahun ini ;\n1. Jangan pikiran apa kata orang \n2. Fokus diri sendiri \n3. Musuh kita sebenarnya adalah diri kita sendiri \n4. Konsisten pasti membuahkan hasil \n5. Orang lain sibuk dengan diri mereka sndiri, gausa takut sama apa yg dipikirkan orang ttg kita\n6. Jangan takut cobain semua kesempatan \n7. Berani bilang “ GAK “ jgn ga enakan mulu \n8. Bahagia tiap orang beda2 \n9. Gausa ngurusin kehidupan orang lain \n10. Eat healhty, olahraga yang cukup \n11. Drink more water \n12. Kelola uang dengan bijak \n13. Jangan terlalu percaya iming2 yg gak masuk akal \n14. Bikin diri sendiri happy jangan mengharapkan orang lain \n15. Give more \n16. Selalu bersyukur \n17. Manifestasi, tulis di kertas apa yg jadi goals kamu \n18. Jangan nunda kerjaan \n19. Gausa kebanyakan overthink \n20. Jangan begadang \n.\nMasih banyak yang lain ku lanjut di komen kalo nti diupdate sekian dan terima nasi kotak",
+                    "comments_count": 387,
+                    "like_count": 11900,
+                    "media_url": "",
+                    "id": "18272685655184489",
+                    "t": 1677684286,
+                    "shortcode": "Co4VI6Sv_SF",
+                    "username": "arashimalya",
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=Co4VI6Sv_SF"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "CozLcSUPtMC",
+                    "timestamp": 1676714549,
+                    "caption": "SUKA BANGET SAMA FEBRUARI 🥹💖🌹 sekalian mau ingetin ke kalian jangan lupa banyak2 bersyukur & tetap semangat 🙌🏼\n.\nStory time : bentar lagi tambah makin tua, perjuangan idup makin berasa tapi saya selalu bersyukur dan selalu menikmati idup walau kadang pait2 tokai ayam 🥹 tapi pasti ada datang manis permen rainbow 🌈",
+                    "comments_count": 285,
+                    "like_count": 8997,
+                    "media_url": "",
+                    "id": "17891086514779388",
+                    "t": 1677684286,
+                    "shortcode": "CozLcSUPtMC",
+                    "username": "arashimalya",
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CozLcSUPtMC"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "CvCYZ_-PCcD",
+                    "timestamp": 1690109564,
+                    "caption": "Inspired by ⏭️ slide terakhir ( kaka aku )",
+                    "comments_count": 70,
+                    "like_count": 3000,
+                    "media_url": "",
+                    "id": "18373023316051958",
+                    "t": 1691743340,
+                    "shortcode": "CvCYZ_-PCcD",
+                    "username": "arashimalya",
+                    "scrape": 1,
+                    "brand_tag": [],
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CvCYZ_-PCcD"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "CouB-levpJU",
+                    "timestamp": 1676541815,
+                    "caption": "Memberikan kalian foto yg segar segar glek glek 🌊 air jernih gausa di edit 😭🤍",
+                    "comments_count": 30,
+                    "like_count": 2759,
+                    "media_url": "",
+                    "id": "17973315323310987",
+                    "t": 1677684286,
+                    "shortcode": "CouB-levpJU",
+                    "username": "arashimalya",
+                    "brand_tag": [
+                        "foto"
+                    ],
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CouB-levpJU"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "IMAGE",
+                    "permalink": "CvKEuHsP_pt",
+                    "timestamp": 1690367679,
+                    "caption": "Ada yang mau aku belanjain gak?? Total belanja 3 juta rupiah hehehehe 🫶🏼🫶🏼 \n\nAku mau ajak belanja dan seru-seruan  di booth Senka Facial Foam JakartaXBeauty 2023! Facial foam ini no 1 di Jepang yang busanya fluffy & melimpah, bisa bikin muka bersih dan cerah lho! 🫧\n\nTulis aja di komen kenapa mau di belanjain sama aku, jadi jangan lupa wajib follow senkaindonesia ya !! Berikan alasan terbaik kamu & jangan lupa juga aktif di akun social media senkaindonesia dan aku yaa agar bisa memiliki kesempatan untuk jadi pemenang \n\nAk pilih 3 orang ya buat belanja bareng aku total 3jt rupiah 💸 Woohhooo Goodluck & See you ~ \n\n#SenkaIndonesia #RealSuppinSkin #JakartaXBeauty2023",
+                    "comments_count": 114,
+                    "like_count": 692,
+                    "media_url": "",
+                    "id": "18196369444259533",
+                    "t": 1691743340,
+                    "shortcode": "CvKEuHsP_pt",
+                    "username": "arashimalya",
+                    "scrape": 1,
+                    "brand_tag": [],
+                    "hashtags": [
+                        "SenkaIndonesia",
+                        "RealSuppinSkin",
+                        "JakartaXBeauty2023"
+                    ],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CvKEuHsP_pt"
+                }
+            ],
+            "postData": [
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "Co4VI6Sv_SF",
+                    "timestamp": 1676887405,
+                    "caption": "Ada yang mau kue ? Soalnya kemarin kepala kekiri bunga nya bagus \n\n📖yang dicatet sampe tahun ini ;\n1. Jangan pikiran apa kata orang \n2. Fokus diri sendiri \n3. Musuh kita sebenarnya adalah diri kita sendiri \n4. Konsisten pasti membuahkan hasil \n5. Orang lain sibuk dengan diri mereka sndiri, gausa takut sama apa yg dipikirkan orang ttg kita\n6. Jangan takut cobain semua kesempatan \n7. Berani bilang “ GAK “ jgn ga enakan mulu \n8. Bahagia tiap orang beda2 \n9. Gausa ngurusin kehidupan orang lain \n10. Eat healhty, olahraga yang cukup \n11. Drink more water \n12. Kelola uang dengan bijak \n13. Jangan terlalu percaya iming2 yg gak masuk akal \n14. Bikin diri sendiri happy jangan mengharapkan orang lain \n15. Give more \n16. Selalu bersyukur \n17. Manifestasi, tulis di kertas apa yg jadi goals kamu \n18. Jangan nunda kerjaan \n19. Gausa kebanyakan overthink \n20. Jangan begadang \n.\nMasih banyak yang lain ku lanjut di komen kalo nti diupdate sekian dan terima nasi kotak",
+                    "comments_count": 387,
+                    "like_count": 11900,
+                    "media_url": "",
+                    "id": "18272685655184489",
+                    "t": 1677684286,
+                    "shortcode": "Co4VI6Sv_SF",
+                    "username": "arashimalya",
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=Co4VI6Sv_SF"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "CozLcSUPtMC",
+                    "timestamp": 1676714549,
+                    "caption": "SUKA BANGET SAMA FEBRUARI 🥹💖🌹 sekalian mau ingetin ke kalian jangan lupa banyak2 bersyukur & tetap semangat 🙌🏼\n.\nStory time : bentar lagi tambah makin tua, perjuangan idup makin berasa tapi saya selalu bersyukur dan selalu menikmati idup walau kadang pait2 tokai ayam 🥹 tapi pasti ada datang manis permen rainbow 🌈",
+                    "comments_count": 285,
+                    "like_count": 8997,
+                    "media_url": "",
+                    "id": "17891086514779388",
+                    "t": 1677684286,
+                    "shortcode": "CozLcSUPtMC",
+                    "username": "arashimalya",
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CozLcSUPtMC"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "CvCYZ_-PCcD",
+                    "timestamp": 1690109564,
+                    "caption": "Inspired by ⏭️ slide terakhir ( kaka aku )",
+                    "comments_count": 70,
+                    "like_count": 3000,
+                    "media_url": "",
+                    "id": "18373023316051958",
+                    "t": 1691743340,
+                    "shortcode": "CvCYZ_-PCcD",
+                    "username": "arashimalya",
+                    "scrape": 1,
+                    "brand_tag": [],
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CvCYZ_-PCcD"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "CAROUSEL_ALBUM",
+                    "permalink": "CouB-levpJU",
+                    "timestamp": 1676541815,
+                    "caption": "Memberikan kalian foto yg segar segar glek glek 🌊 air jernih gausa di edit 😭🤍",
+                    "comments_count": 30,
+                    "like_count": 2759,
+                    "media_url": "",
+                    "id": "17973315323310987",
+                    "t": 1677684286,
+                    "shortcode": "CouB-levpJU",
+                    "username": "arashimalya",
+                    "brand_tag": [
+                        "foto"
+                    ],
+                    "hashtags": [],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CouB-levpJU"
+                },
+                {
+                    "media_product_type": "FEED",
+                    "media_type": "IMAGE",
+                    "permalink": "CvKEuHsP_pt",
+                    "timestamp": 1690367679,
+                    "caption": "Ada yang mau aku belanjain gak?? Total belanja 3 juta rupiah hehehehe 🫶🏼🫶🏼 \n\nAku mau ajak belanja dan seru-seruan  di booth Senka Facial Foam JakartaXBeauty 2023! Facial foam ini no 1 di Jepang yang busanya fluffy & melimpah, bisa bikin muka bersih dan cerah lho! 🫧\n\nTulis aja di komen kenapa mau di belanjain sama aku, jadi jangan lupa wajib follow senkaindonesia ya !! Berikan alasan terbaik kamu & jangan lupa juga aktif di akun social media senkaindonesia dan aku yaa agar bisa memiliki kesempatan untuk jadi pemenang \n\nAk pilih 3 orang ya buat belanja bareng aku total 3jt rupiah 💸 Woohhooo Goodluck & See you ~ \n\n#SenkaIndonesia #RealSuppinSkin #JakartaXBeauty2023",
+                    "comments_count": 114,
+                    "like_count": 692,
+                    "media_url": "",
+                    "id": "18196369444259533",
+                    "t": 1691743340,
+                    "shortcode": "CvKEuHsP_pt",
+                    "username": "arashimalya",
+                    "scrape": 1,
+                    "brand_tag": [],
+                    "hashtags": [
+                        "SenkaIndonesia",
+                        "RealSuppinSkin",
+                        "JakartaXBeauty2023"
+                    ],
+                    "mentions": [],
+                    "extension": "jpg",
+                    "image": "https://viralpitch.co/hosted-image/?id=CvKEuHsP_pt"
+                }
+            ],
+            "groupedData": {
+                "7/26/2023": {
+                    "totalLikes": 692,
+                    "totalComments": 114,
+                    "totalPosts": 1,
+                    "videoCount": 0
+                },
+                "7/23/2023": {
+                    "totalLikes": 3000,
+                    "totalComments": 70,
+                    "totalPosts": 1,
+                    "videoCount": 0
+                },
+                "2/20/2023": {
+                    "totalLikes": 11900,
+                    "totalComments": 387,
+                    "totalPosts": 1,
+                    "videoCount": 0
+                },
+                "2/18/2023": {
+                    "totalLikes": 8997,
+                    "totalComments": 285,
+                    "totalPosts": 1,
+                    "videoCount": 0
+                },
+                "2/16/2023": {
+                    "totalLikes": 2759,
+                    "totalComments": 30,
+                    "totalPosts": 1,
+                    "videoCount": 0
+                }
+            },
+            "weeklystats": [
+                {
+                    "label": "Post",
+                    "value": 0
+                },
+                {
+                    "label": "Avg_Likes",
+                    "value": 0
+                },
+                {
+                    "label": "Avg_Comments",
+                    "value": 0
+                },
+                {
+                    "label": "Followers_Hike",
+                    "value": 0
+                },
+                {
+                    "label": "Avg_Views",
+                    "value": 0
+                },
+                {
+                    "label": "Eng_Rate",
+                    "value": 0
+                }
+            ],
+            "historystats": []
+        }
+    }
+}
